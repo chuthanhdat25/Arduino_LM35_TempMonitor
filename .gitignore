@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Arduino
+*.elf
+*.hex
+*.bin
+build/
+
+# IDE & OS
+.vscode/
+*.suo
+Thumbs.db
