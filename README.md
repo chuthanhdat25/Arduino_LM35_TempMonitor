@@ -19,3 +19,4 @@ Cảm biến LM35 |	   3	  |  Cảm biến analog
 5. Hướng dẫn sử dụng
 1. Nạp code trong thư mục `firmware/` vào Arduino.
 2. Mở Serial Monitor để xem dữ liệu JSON.
+SV A: Chu Thanh Dat
