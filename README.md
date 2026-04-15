@@ -7,9 +7,9 @@ Hệ thống giám sát nhiệt độ sử dụng cảm biến LM35 kết nối 
 - Cấu trúc thư mục dự án chuẩn Git.
 
 3. Danh sách linh kiện
-Linh kiện	Số lượng 	Ghi chú
-Arduino UNO	  1	    Board mạch chính
-Cảm biến LM35	  3	    Cảm biến analog
+Linh kiện     |	Số lượng  |	Ghi chú
+Arduino UNO   |	   1	  |  Board mạch chính
+Cảm biến LM35 |	   3	  |  Cảm biến analog
 
 4. Thành viên thực hiện
 - Họ và tên: Chu Thành Đạt
